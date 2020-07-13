@@ -1,0 +1,10 @@
+Hecho con :heart: x ReLofi2#7424{iscript:
+load http://relofi.000webhostapp.com/imagenes_tags/amores.jpg image
+load {if:{avatar:{arg:0}}|=||then:{arg:0}|else:{avatar:{arg:0}}} overlay
+get image width w
+get image height h
+resize overlay (w/4) (h/4) 
+overlay image overlay 460 300
+render image
+}
+{note:Codigo de relofi , marico el que lo robe :sunglasses:}
