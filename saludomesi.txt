@@ -1,5 +1,5 @@
 Hecho con :heart: x ReLofi2#7424{iscript:
-load https://cdn.discordapp.com/attachments/731038016356745316/732016211512131594/FB_IMG_1594586023082.jpg image
+load http://relofi.000webhostapp.com/imagenes_tags/saludomesi.jpg image
 load {if:{avatar:{arg:0}}|=||then:{arg:0}|else:{avatar:{arg:0}}} overlay
 get image width w
 get image height h

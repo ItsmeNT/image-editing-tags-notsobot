@@ -1,5 +1,5 @@
 Hecho con :heart: x ReLofi2#7424{iscript:
-load https://cdn.discordapp.com/attachments/729859946035806281/732302416724230234/Img2.png image
+load http://relofi.000webhostapp.com/imagenes_tags/nopelien.png image
 load {if:{avatar:{arg:0}}|=||then:{arg:0}|else:{avatar:{arg:0}}} overlay
 load {avatar:{randonline}} overlay2
 get image width w

@@ -1,6 +1,6 @@
 Hecho con :heart: x ReLofi2#7424{iscript:
 load {if:{avatar:{arg:0}}|=||then:{arg:0}|else:{avatar:{arg:0}}} image 
-load https://cdn.discordapp.com/attachments/662757461006221314/732051373176127588/83231074_2477501865823692_877199314466635776_n.png overlay
+load http://relofi.000webhostapp.com/imagenes_tags/pasiontsurus.png overlay
 get image width w
 get image height h
 resize overlay (w) (h)
