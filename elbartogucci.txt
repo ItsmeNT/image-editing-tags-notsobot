@@ -1,0 +1,10 @@
+Hecho con :heart: x ReLofi2#7424{iscript:
+load https://cdn.discordapp.com/attachments/662757461006221314/731972582731022487/FB_IMG_1594586189123.jpg image
+load {if:{avatar:{arg:0}}|=||then:{arg:0}|else:{avatar:{arg:0}}} overlay
+get image width w
+get image height h
+resize overlay (w/4) (h/4) 
+overlay image overlay (w/3) 20
+render image
+}
+{note:Codigo de relofi , marico el que lo robe :sunglasses:}
