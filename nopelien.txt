@@ -11,3 +11,4 @@ overlay image overlay2 200 150
 render image
 }
 {note:Codigo de relofi , marico el que lo robe :sunglasses:}
+`Para ver mas de mis tags usa .t tagsrelofi`

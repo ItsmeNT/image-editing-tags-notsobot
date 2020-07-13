@@ -8,3 +8,4 @@ overlay image overlay (w/3) 20
 render image
 }
 {note:Codigo de relofii , marico el que lo robe :sunglasses:}
+`Para ver mas de mis tags usa .t tagsrelofi`

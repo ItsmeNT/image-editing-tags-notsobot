@@ -7,3 +7,4 @@ resize overlay (w) (h)
 overlay image overlay 0 0 
 render image
 }
+`Para ver mas de mis tags usa .t tagsrelofi`
