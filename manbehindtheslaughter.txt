@@ -1,0 +1,10 @@
+Hecho con :heart: x ReLofi2#7424{iscript:
+load {if:{avatar:{arg:0}}|=||then:{arg:0}|else:{avatar:{arg:0}}} image 
+load https://cdn.discordapp.com/attachments/732302808723881988/732662946735587339/FiltroHombreMorado.png overlay
+get image width w
+get image height h
+resize overlay (w) (h)
+overlay image overlay 0 0 
+render image
+}
+Para ver mas de mis tags usa .t tagsrelofi
