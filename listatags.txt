@@ -5,3 +5,4 @@
 .t saludomesi
 .t viejo_cachondo
 .t bimbo_pistola
+.t tag_epico
